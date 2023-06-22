@@ -1,0 +1,93 @@
+
+
+html{
+    
+    background-color: #333;
+    color: whitesmoke;
+}
+
+
+body{
+    padding: 10%;
+    
+    background-color: #23e1e7;
+    color: rgb(6, 5, 5);
+}
+a{
+    color: rgb(34, 9, 171);
+    cursor: pointer;
+}
+h1{
+    text-align: center;
+}
+a:active{
+    color: red;
+}
+a:visited{
+    color: #41d319;
+}
+a:focus{
+    color: #f92121;
+}
+a:hover{
+    color: #f921eb;
+}
+
+summary{
+    color: #096633;
+    font-size: 2rem;
+}
+button{
+    background-color: rgb(63, 38, 7);
+}
+header{
+background-image:();
+
+}
+strong{
+    font-style: oblique;
+    
+}
+
+aside{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+title{
+    background-color: aquamarine;
+}
+ul{
+    list-style-type: square;
+    
+    
+    color: #1f043b;
+}
+.profile-pic-figure{
+    width: 35%;
+}
+.profile-pic-figure img{
+    width: 200%;
+    height: auto;
+    min-width: 222px;
+    border: 5px double rgb(75, 78, 69);
+    border-radius: 70%;
+
+}
+section{
+    background-color: burlywood;
+
+}
+address{
+    background-color: black;
+}
+nav{
+    background-color: grey;
+}
+th{
+    color: #adbeb4;
+}
+
+img{
+    border-radius: 20%;
+}
+
+
